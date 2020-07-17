@@ -9,7 +9,7 @@ Youtube link  step by step
   https://youtu.be/FOiJ3K15dDM 
   <br>
   <br>
-  <img src="ezgif.com-video-to-gif (1)" height="600px"> <br>
+  <img src="ezgif.com-video-to-gif (1).gif" height="600px"> <br>
   <hr>
   <br>
 
