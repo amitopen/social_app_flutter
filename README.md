@@ -9,9 +9,9 @@ Youtube link  step by step
   https://youtu.be/FOiJ3K15dDM 
   <br>
   <br>
-  <img src="Screenshot_20200623-135535.png" height="600px"> <br>
+  <img src="ezgif.com-video-to-gif (1)" height="600px"> <br>
   <hr>
-  <img src="Screenshot_20200623-135544.png" height="600px"> <br>
+  <br>
 
 https://youtu.be/FOiJ3K15dDM
 
